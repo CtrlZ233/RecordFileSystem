@@ -1,0 +1,3 @@
+[submodule "RecordFileSystem/spdlog"]
+	path = RecordFileSystem/spdlog
+	url = https://gitee.com/mirror-luyi/spdlog.git
