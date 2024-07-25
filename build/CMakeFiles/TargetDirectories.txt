@@ -1,0 +1,6 @@
+/home/ctrlz/workSpace/RecordFileSystem/build/CMakeFiles/ReactorServer.dir
+/home/ctrlz/workSpace/RecordFileSystem/build/CMakeFiles/edit_cache.dir
+/home/ctrlz/workSpace/RecordFileSystem/build/CMakeFiles/rebuild_cache.dir
+/home/ctrlz/workSpace/RecordFileSystem/build/RecordFileSystem/CMakeFiles/rfs.dir
+/home/ctrlz/workSpace/RecordFileSystem/build/RecordFileSystem/CMakeFiles/edit_cache.dir
+/home/ctrlz/workSpace/RecordFileSystem/build/RecordFileSystem/CMakeFiles/rebuild_cache.dir
